@@ -136,3 +136,6 @@
 [submodule "findutils"]
 	path = findutils
 	url = git://github.com/infoburp/findutils.git
+[submodule "gdbm"]
+	path = gdbm
+	url = git://github.com/infoburp/gdbm.git
