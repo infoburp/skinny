@@ -97,3 +97,24 @@
 [submodule "make"]
 	path = make
 	url = git://github.com/infoburp/make.git
+[submodule "udev-lfs"]
+	path = udev-lfs
+	url = git://github.com/infoburp/udev-lfs.git
+[submodule "tzdata"]
+	path = tzdata
+	url = git://github.com/infoburp/tzdata.git
+[submodule "tcl"]
+	path = tcl
+	url = git://github.com/infoburp/tcl.git
+[submodule "tar"]
+	path = tar
+	url = git://github.com/infoburp/tar.git
+[submodule "sysklogd"]
+	path = sysklogd
+	url = git://github.com/infoburp/sysklogd.git
+[submodule "readline"]
+	path = readline
+	url = git://github.com/infoburp/readline.git
+[submodule "psmisc"]
+	path = psmisc
+	url = git://github.com/infoburp/psmisc.git
