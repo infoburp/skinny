@@ -124,9 +124,6 @@
 [submodule "iana-etc"]
 	path = iana-etc
 	url = git://github.com/infoburp/iana-etc.git
-[submodule "less"]
-	path = less
-	url = git://github.com/infoburp/less.git
 [submodule "ncurses"]
 	path = ncurses
 	url = git://github.com/infoburp/ncurses.git
