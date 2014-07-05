@@ -1,4 +1,4 @@
 skinny
 ======
 
-very small linux distro, with minimal gnu
+as little operating system as I can get away with
