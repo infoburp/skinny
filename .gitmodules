@@ -94,3 +94,6 @@
 [submodule "procps"]
 	path = procps
 	url = git://github.com/infoburp/procps.git
+[submodule "make"]
+	path = make
+	url = git://github.com/infoburp/make.git
