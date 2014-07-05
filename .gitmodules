@@ -139,3 +139,9 @@
 [submodule "gdbm"]
 	path = gdbm
 	url = git://github.com/infoburp/gdbm.git
+[submodule "man-pages"]
+	path = man-pages
+	url = git://github.com/infoburp/man-pages.git
+[submodule "m4"]
+	path = m4
+	url = git://github.com/infoburp/m4.git
