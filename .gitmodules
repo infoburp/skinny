@@ -1,0 +1,21 @@
+[submodule "atto"]
+	path = atto
+	url = git://github.com/infoburp/atto.git
+[submodule "autoconf"]
+	path = autoconf
+	url = git://git.savannah.gnu.org/autoconf.git
+[submodule "automake"]
+	path = automake
+	url = git://git.savannah.gnu.org/automake.git
+[submodule "apt-git"]
+	path = apt-git
+	url = git://github.com/infoburp/apt-git.git
+[submodule "bc"]
+	path = bc
+	url = git://github.com/infoburp/bc.git
+[submodule "bash"]
+	path = bash
+	url = git://git.savannah.gnu.org/bash.git
+[submodule "binutils"]
+	path = binutils
+	url = git://sourceware.org/git/binutils-gdb.git
