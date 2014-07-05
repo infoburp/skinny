@@ -52,9 +52,6 @@
 [submodule "linux"]
 	path = linux
 	url = git://github.com/infoburp/linux.git
-[submodule "patch"]
-	path = patch
-	url = git://github.com/infoburp/patch.git
 [submodule "shelly"]
 	path = shelly
 	url = git://github.com/infoburp/shelly.git
@@ -184,3 +181,33 @@
 [submodule "perl"]
 	path = perl
 	url = git://github.com/infoburp/perl.git
+[submodule "pkg-config"]
+	path = pkg-config
+	url = git://github.com/infoburp/pkg-config.git
+[submodule "patch"]
+	path = patch
+	url = git://github.com/infoburp/patch.git
+[submodule "libtool"]
+	path = libtool
+	url = git://github.com/infoburp/libtool.git
+[submodule "libpipeline"]
+	path = libpipeline
+	url = git://github.com/infoburp/libpipeline.git
+[submodule "less"]
+	path = less
+	url = git://github.com/infoburp/less.git
+[submodule "gettext"]
+	path = gettext
+	url = git://github.com/infoburp/gettext.git
+[submodule "gawk"]
+	path = gawk
+	url = git://github.com/infoburp/gawk.git
+[submodule "flex"]
+	path = flex
+	url = git://github.com/infoburp/flex.git
+[submodule "dejagnu"]
+	path = dejagnu
+	url = git://github.com/infoburp/dejagnu.git
+[submodule "binutils"]
+	path = binutils
+	url = git://github.com/infoburp/binutils.git
