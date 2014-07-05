@@ -124,3 +124,18 @@
 [submodule "iana-etc"]
 	path = iana-etc
 	url = git://github.com/infoburp/iana-etc.git
+[submodule "less"]
+	path = less
+	url = git://github.com/infoburp/less.git
+[submodule "ncurses"]
+	path = ncurses
+	url = git://github.com/infoburp/ncurses.git
+[submodule "mpc"]
+	path = mpc
+	url = git://github.com/infoburp/mpc.git
+[submodule "mpfr"]
+	path = mpfr
+	url = git://github.com/infoburp/mpfr.git
+[submodule "findutils"]
+	path = findutils
+	url = git://github.com/infoburp/findutils.git
