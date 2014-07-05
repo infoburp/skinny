@@ -121,3 +121,6 @@
 [submodule "man-db"]
 	path = man-db
 	url = git://github.com/infoburp/man-db.git
+[submodule "iana-etc"]
+	path = iana-etc
+	url = git://github.com/infoburp/iana-etc.git
