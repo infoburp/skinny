@@ -118,3 +118,6 @@
 [submodule "psmisc"]
 	path = psmisc
 	url = git://github.com/infoburp/psmisc.git
+[submodule "man-db"]
+	path = man-db
+	url = git://github.com/infoburp/man-db.git
