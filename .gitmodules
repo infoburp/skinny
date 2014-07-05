@@ -145,3 +145,18 @@
 [submodule "m4"]
 	path = m4
 	url = git://github.com/infoburp/m4.git
+[submodule "gmp"]
+	path = gmp
+	url = git://github.com/infoburp/gmp.git
+[submodule "glibc"]
+	path = glibc
+	url = git://github.com/infoburp/glibc.git
+[submodule "grep"]
+	path = grep
+	url = git://github.com/infoburp/grep.git
+[submodule "groff"]
+	path = groff
+	url = git://github.com/infoburp/groff.git
+[submodule "nano"]
+	path = nano
+	url = git://github.com/infoburp/nano.git
