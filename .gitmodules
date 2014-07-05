@@ -181,3 +181,6 @@
 [submodule "gzip"]
 	path = gzip
 	url = git://github.com/infoburp/gzip.git
+[submodule "perl"]
+	path = perl
+	url = git://github.com/infoburp/perl.git
