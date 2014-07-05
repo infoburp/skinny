@@ -70,3 +70,9 @@
 [submodule "zlib"]
 	path = zlib
 	url = git://github.com/infoburp/zlib.git
+[submodule "xz"]
+	path = xz
+	url = git://github.com/infoburp/xz.git
+[submodule "git"]
+	path = git
+	url = git://github.com/infoburp/git.git
