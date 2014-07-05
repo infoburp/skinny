@@ -1,39 +1,72 @@
 [submodule "atto"]
 	path = atto
 	url = git://github.com/infoburp/atto.git
-[submodule "autoconf"]
-	path = autoconf
-	url = git://git.savannah.gnu.org/autoconf.git
-[submodule "automake"]
-	path = automake
-	url = git://git.savannah.gnu.org/automake.git
 [submodule "apt-git"]
 	path = apt-git
 	url = git://github.com/infoburp/apt-git.git
+[submodule "autoconf"]
+	path = autoconf
+	url = git://github.com/infoburp/autoconf.git
+[submodule "automake"]
+	path = automake
+	url = git://github.com/infoburp/automake.git
+[submodule "bash"]
+	path = bash
+	url = git://github.com/infoburp/bash.git
+[submodule "bison"]
+	path = bison
+	url = git://github.com/infoburp/bison.git
 [submodule "bc"]
 	path = bc
 	url = git://github.com/infoburp/bc.git
-[submodule "bash"]
-	path = bash
-	url = git://git.savannah.gnu.org/bash.git
-[submodule "binutils"]
-	path = binutils
-	url = git://sourceware.org/git/binutils-gdb.git
-[submodule "go"]
-	path = go
-	url = git://github.com/infoburp/go.git
-[submodule "bison"]
-	path = bison
-	url = git://git.savannah.gnu.org/bison.git
+[submodule "gremlin"]
+	path = gremlin
+	url = git://github.com/infoburp/gremlin.git
+[submodule "chat"]
+	path = chat
+	url = git://github.com/infoburp/chat.git
+[submodule "check"]
+	path = check
+	url = git://github.com/infoburp/check.git
+[submodule "dropbear"]
+	path = dropbear
+	url = git://github.com/infoburp/dropbear.git
 [submodule "bootscripts"]
 	path = bootscripts
 	url = git://github.com/infoburp/bootscripts.git
+[submodule "diffutils"]
+	path = diffutils
+	url = git://github.com/infoburp/diffutils
+[submodule "edit"]
+	path = edit
+	url = git://github.com/infoburp/edit.git
+[submodule "e2fsprogs"]
+	path = e2fsprogs
+	url = git://github.com/infoburp/e2fsprogs.git
+[submodule "expect"]
+	path = expect
+	url = git://github.com/infoburp/expect.git
+[submodule "file"]
+	path = file
+	url = git://github.com/infoburp/file.git
+[submodule "linux"]
+	path = linux
+	url = git://github.com/infoburp/linux.git
+[submodule "patch"]
+	path = patch
+	url = git://github.com/infoburp/patch.git
+[submodule "shelly"]
+	path = shelly
+	url = git://github.com/infoburp/shelly.git
 [submodule "browse"]
 	path = browse
 	url = git://github.com/infoburp/browse.git
 [submodule "busybox"]
 	path = busybox
 	url = git://github.com/infoburp/busybox.git
-[submodule "dropbear"]
-	path = dropbear
-	url = git://github.com/infoburp/dropbear.git
+[submodule "go"]
+	path = go
+	url = git://github.com/infoburp/go.git
+[submodule "zlib"]
+	path = zlib
+	url = git://github.com/infoburp/zlib.git
