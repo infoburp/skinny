@@ -160,3 +160,15 @@
 [submodule "nano"]
 	path = nano
 	url = git://github.com/infoburp/nano.git
+[submodule "inetutils"]
+	path = inetutils
+	url = git://github.com/infoburp/inetutils.git
+[submodule "iproute2"]
+	path = iproute2
+	url = git://github.com/infoburp/iproute2.git
+[submodule "kbd"]
+	path = kbd
+	url = git://github.com/infoburp/kbd.git
+[submodule "kmod"]
+	path = kmod
+	url = git://github.com/infoburp/kmod.git
