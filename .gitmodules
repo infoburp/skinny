@@ -76,3 +76,21 @@
 [submodule "git"]
 	path = git
 	url = git://github.com/infoburp/git.git
+[submodule "web"]
+	path = web
+	url = git://github.com/infoburp/web.git
+[submodule "util-linux"]
+	path = util-linux
+	url = git://github.com/infoburp/util-linux.git
+[submodule "texinfo"]
+	path = texinfo
+	url = git://github.com/infoburp/texinfo.git
+[submodule "shadow"]
+	path = shadow
+	url = git://github.com/infoburp/shadow.git
+[submodule "rsync"]
+	path = rsync
+	url = git://github.com/infoburp/rsync.git
+[submodule "procps"]
+	path = procps
+	url = git://github.com/infoburp/procps.git
