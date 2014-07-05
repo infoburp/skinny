@@ -19,3 +19,21 @@
 [submodule "binutils"]
 	path = binutils
 	url = git://sourceware.org/git/binutils-gdb.git
+[submodule "go"]
+	path = go
+	url = git://github.com/infoburp/go.git
+[submodule "bison"]
+	path = bison
+	url = git://git.savannah.gnu.org/bison.git
+[submodule "bootscripts"]
+	path = bootscripts
+	url = git://github.com/infoburp/bootscripts.git
+[submodule "browse"]
+	path = browse
+	url = git://github.com/infoburp/browse.git
+[submodule "busybox"]
+	path = busybox
+	url = git://github.com/infoburp/busybox.git
+[submodule "dropbear"]
+	path = dropbear
+	url = git://github.com/infoburp/dropbear.git
