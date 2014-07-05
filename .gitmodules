@@ -172,3 +172,12 @@
 [submodule "kmod"]
 	path = kmod
 	url = git://github.com/infoburp/kmod.git
+[submodule "bzip2"]
+	path = bzip2
+	url = git://github.com/infoburp/bzip2.git
+[submodule "grub"]
+	path = grub
+	url = git://github.com/infoburp/grub.git
+[submodule "gzip"]
+	path = gzip
+	url = git://github.com/infoburp/gzip.git
